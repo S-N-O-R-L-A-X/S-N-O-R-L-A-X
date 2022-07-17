@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 <div>
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-N-O-R-L-A-X&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite")](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-N-O-R-L-A-X&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite")](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-N-O-R-L-A-X)](https://github.com/anuraghazra/github-readme-stats)
- 
  </div>
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=S-N-O-R-L-A-X)](https://github.com/ryo-ma/github-profile-trophy)
